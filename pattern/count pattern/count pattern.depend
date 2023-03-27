@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598460537 source:c:\users\acer\desktop\count pattern\main.c
+	<stdio.h>
+	<stdlib.h>
+

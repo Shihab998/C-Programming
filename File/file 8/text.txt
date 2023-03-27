@@ -1,0 +1,7 @@
+name           age       number
+----           ---       ------
+ shihab		23	1791530436 
+
+ pollob		22	1712019658 
+
+ Ratna		28	1770898217 

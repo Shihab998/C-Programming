@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598894267 source:c:\users\acer\desktop\palindrom string\main.c
+	<stdio.h>
+	<stdlib.h>
+

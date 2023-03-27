@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593441891 source:c:\users\acer\desktop\markes\main.c
+	<stdio.h>
+	<stdlib.h>
+

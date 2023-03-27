@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593617546 source:c:\users\acer\desktop\factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+

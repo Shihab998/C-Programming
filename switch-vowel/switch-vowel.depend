@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593536863 source:c:\users\acer\desktop\switch-vowel\main.c
+	<stdio.h>
+	<stdlib.h>
+

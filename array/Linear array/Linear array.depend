@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598694991 source:c:\users\acer\desktop\linear array\main.c
+	<stdio.h>
+	<stdlib.h>
+
